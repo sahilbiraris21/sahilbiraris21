@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahilbiraris21
 - 👀 I’m interested in coding , video games and movies.
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning ml
 - 💞️ I’m looking to collaborate on making ourselves better.
 - 📫 How to reach me ig: 5ahill21
 - 😄 Pronouns: he/him
