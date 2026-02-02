@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sahilbiraris21
-- 👀 I’m interested in coding , video games and movies.
+- 👀 I’m interested in Machine learning , GenAI , Cryptography
 - 🌱 I’m currently learning ml
 - 💞️ I’m looking to collaborate on making ourselves better.
-- 📫 How to reach me ig: 5ahill21
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i am too lazy but its fun.
+- 📫 How to reach me : www.linkedin.com/in/sahil-biraris
+- 
+- 
 
 <!---
 sahilbiraris21/sahilbiraris21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
